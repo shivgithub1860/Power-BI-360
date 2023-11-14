@@ -5,3 +5,8 @@ AtliQ is a hardware stores which sells electronic to many distributors and in th
 
 
 ### INFO
+
+#### INFO PAGE 
+This report has key information about the dashboard.
+
+#### FINANCE VIEW 
